@@ -1,0 +1,207 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Pépère Marrakech | Grill, Live Music & Sports Bar",
+      "description": "Pépère Marrakech is a restaurant, grill, and sports bar in the heart of Marrakech — live music, great food, and every big match on screen."
+    },
+    "menu": {
+      "title": "Menu — Pépère Marrakech",
+      "description": "Tagines, fish, grilled specialties, tapas, desserts, and a full bar — the complete menu at Pépère Marrakech."
+    },
+    "about": {
+      "title": "Our Story — Pépère Marrakech",
+      "description": "A kitchen that runs from lunch to 2AM, every major match on screen, and a room built to feel like a gathering among friends. The story behind Pépère Marrakech."
+    },
+    "contact": {
+      "title": "Contact — Pépère Marrakech",
+      "description": "Find us, call us, or reserve your table — everything you need to visit Pépère Marrakech."
+    }
+  },
+  "common": {
+    "comingSoon": "This section is under construction.",
+    "viewMenu": "View Full Menu"
+  },
+  "nav": {
+    "mainNavigation": "Main navigation",
+    "language": "Language",
+    "home": "Home",
+    "menu": "Menu",
+    "showArt": "Show & Art",
+    "reservation": "Reservation",
+    "about": "Our Story",
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "switchToEnglish": "Switch language to English",
+    "switchToFrench": "Switch language to French",
+    "bookTable": "Book a Table",
+    "viewMenu": "View Menu"
+  },
+  "footer": {
+    "tagline": "Pépère Marrakech — Restaurant · Sports Bar · Grill, where the game, the flavor, and good times all happen at once.",
+    "explore": "Explore",
+    "rightsReserved": "All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Marrakech · Restaurant · Sports Bar · Grill",
+      "scrollHint": "Scroll"
+    },
+    "whatsOn": {
+      "eyebrow": "What's On",
+      "heading": "Sound, Shows & Good Times",
+      "intro": "Live music, resident DJs, dance shows, and parties that don't quit — the night here doesn't slow down after dark.",
+      "sportsLabel": "On The Big Screen",
+      "bigScreen": "Big Screen",
+      "hdBroadcast": "HD Broadcast",
+      "soundOn": "Sound On",
+      "sportsBlurbHeading": "Every Big Match, Right Here",
+      "sportsBlurbBody": "Football, Champions League, UFC, Formula 1, NBA — we screen the games that matter, every time they're on. Come by, or reserve a table so you don't miss kickoff.",
+      "cta": "Reserve Your Table",
+      "nightlifeLabel": "After Dark",
+      "showArtLabel": "Show & Art",
+      "stadiumAlt": "Sports fans watching a match on the big screen at Pépère Marrakech"
+    },
+    "foodAndDrinks": {
+      "eyebrow": "Food & Drinks",
+      "heading": "Tagines, Grills & Everything Between",
+      "intro": "A handful of recipes the house is built on, and a full menu of tagines, grills, seafood, and more waiting behind them.",
+      "menuLabel": "Browse the Menu",
+      "menuCta": "View Full Menu"
+    },
+    "bar": {
+      "eyebrow": "Drinks",
+      "heading": "Wine, Beer & Everything Between",
+      "intro": "From cold pressions to reserve wines, classic cocktails to top-shelf spirits — our bar keeps every table stocked, whatever the order.",
+      "categoriesLabel": "What's Behind The Bar",
+      "cta": "View The Full Bar"
+    },
+    "experience": {
+      "eyebrow": "The Pépère Experience",
+      "heading": "Bold, Fresh, and Friendly",
+      "paragraph1": "Every dish begins the same way — fresh ingredients, real technique, no shortcuts, whether it's off the grill, out of the tagine, or straight from the pan. It's slower. It's worth it.",
+      "paragraph2": "We build each plate around what's fresh that morning, not what's convenient.",
+      "paragraph3": "And when you sit down — whether it's a quiet dinner or the whole table watching the match — you're looked after the same way."
+    },
+    "gallery": {
+      "eyebrow": "The Pépère Vibe",
+      "heading": "Good Nights Start Here"
+    },
+    "contact": {
+      "eyebrow": "Find Us",
+      "heading": "Your Table's Waiting",
+      "addressLabel": "Address",
+      "hoursLabel": "Hours",
+      "phoneLabel": "Phone",
+      "emailLabel": "Email",
+      "socialLabel": "Follow Us",
+      "mapCta": "Get Directions",
+      "callCta": "Call to Reserve"
+    },
+    "whatsappCta": {
+      "heading": "Let's Talk on WhatsApp",
+      "intro": "Fastest way to book a table, ask about tonight's game, or plan a private event.",
+      "cta": "Message Us on WhatsApp"
+    }
+  },
+  "menu": {
+    "eyebrow": "The Full Menu",
+    "heading": "The Menu",
+    "intro": "Tagines simmered slow, fish and grills straight off the charcoal, tapas to share, and a full bar to match — everything Pépère serves, in one place.",
+    "categoryNavLabel": "Menu categories",
+    "filter": {
+      "label": "Filter the menu",
+      "all": "Everything",
+      "kitchen": "Kitchen",
+      "bar": "Bar"
+    },
+    "close": "Close",
+    "viewDetails": "View details for {dish}",
+    "sectionEyebrows": {
+      "fanFavorites": "Fan Favorites",
+      "fromTheGrill": "Real Charcoal, No Shortcuts",
+      "drinks": "The Bar"
+    },
+    "units": {
+      "glass": "Glass",
+      "half": "Half Bottle",
+      "bottle": "Bottle"
+    }
+  },
+  "about": {
+    "header": {
+      "eyebrow": "Our Story",
+      "heading": "Less Restaurant, More Gathering",
+      "intro": "Even the name says it — something familiar, relaxed, easygoing. Pépère Marrakech opened right as the World Cup kicked off, but it was never meant to be just a place to watch the match. It's the kitchen that runs from lunch to 2AM, the table that always has room for one more, and a room built to feel like a big night among friends, not a sit-down restaurant."
+    },
+    "narrative": {
+      "eyebrow": "How It Started",
+      "heading": "Long Lunches, Longer Nights",
+      "paragraph1": "Pépère Marrakech opened its doors right as the World Cup kicked off, built for the kind of evening that starts with a late lunch and ends well after the final whistle.",
+      "paragraph2": "The kitchen runs non-stop from midday to 2AM, with new suggestions added daily based on what's fresh that morning — no clock-watching before last call, whether you're in for lunch, dinner, or a snack during extra time.",
+      "paragraph3": "Keep the prices fair, add live music and performances every single day, and let the room feel like one big table of friends — football fans and neighborhood regulars alike.",
+      "valuesLabel": "What We Stand For",
+      "value1": "Kitchen Open Noon to 2AM",
+      "value2": "Every Major Match, All Year",
+      "value3": "Fair Prices, No Rush",
+      "value4": "Live Performances Daily",
+      "cta": "See The Full Menu"
+    },
+    "moments": {
+      "eyebrow": "Made For Every Table",
+      "heading": "Every Kind of Night",
+      "intro": "Whatever brings you in, there's a seat with your name on it.",
+      "matchDay": {
+        "title": "Match Day",
+        "description": "Big screens, cold beer, and a crowd that gets loud when it matters."
+      },
+      "dateNight": {
+        "title": "Date Night",
+        "description": "Good food, a little charm, and a table made for two."
+      },
+      "familySunday": {
+        "title": "Family Sunday",
+        "description": "Something for every plate at the table, kids included."
+      },
+      "afterDark": {
+        "title": "After Dark",
+        "description": "Live music, DJs, and a night that doesn't end when dinner does."
+      }
+    }
+  },
+  "contactPage": {
+    "header": {
+      "eyebrow": "Get In Touch",
+      "heading": "Come Say Hello",
+      "intro": "Whether it's a quiet dinner, a big match, or a table for the whole crew — here's everything you need to find us, reach us, and reserve your spot."
+    },
+    "findUs": {
+      "eyebrow": "Location",
+      "heading": "Find Us",
+      "addressLabel": "Address",
+      "intro": "Tap below for turn-by-turn directions straight to our door.",
+      "cta": "Get Directions",
+      "viewOnMap": "View On Map",
+      "openNow": "Open Now",
+      "closedNow": "Closed Now"
+    },
+    "methods": {
+      "eyebrow": "Contact Details",
+      "heading": "Ways To Reach Us",
+      "whatsappLabel": "WhatsApp",
+      "whatsappValue": "Chat With Us",
+      "phoneLabel": "Call Us",
+      "emailLabel": "Email Us",
+      "instagramLabel": "Follow Us",
+      "hoursLabel": "Opening Hours"
+    }
+  },
+  "qrMenu": {
+    "heading": "Menu QR Codes",
+    "intro": "Print these for table tents, flyers, or the front door — guests scan and land straight on the digital menu.",
+    "print": "Print",
+    "scanCta": "Scan for our menu",
+    "testLabel": "Preview (test)",
+    "liveLabel": "Live (production)"
+  }
+}

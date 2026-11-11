@@ -1,0 +1,207 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Pépère Marrakech | Grill, Musique Live & Sports Bar",
+      "description": "Pépère Marrakech est un restaurant, grill et sports bar au cœur de Marrakech — musique live, bonne cuisine et tous les grands matchs à l'écran."
+    },
+    "menu": {
+      "title": "Menu — Pépère Marrakech",
+      "description": "Tagines, poissons, grillades, tapas, desserts et un bar complet — toute la carte de Pépère Marrakech."
+    },
+    "about": {
+      "title": "Notre Histoire — Pépère Marrakech",
+      "description": "Une cuisine qui tourne du déjeuner jusqu'à 2h du matin, chaque grand match à l'écran, et une salle pensée comme un rassemblement entre amis. L'histoire de Pépère Marrakech."
+    },
+    "contact": {
+      "title": "Contact — Pépère Marrakech",
+      "description": "Trouvez-nous, appelez-nous ou réservez votre table — tout ce qu'il faut pour venir chez Pépère Marrakech."
+    }
+  },
+  "common": {
+    "comingSoon": "Cette section est en cours de construction.",
+    "viewMenu": "Voir le Menu Complet"
+  },
+  "nav": {
+    "mainNavigation": "Navigation principale",
+    "language": "Langue",
+    "home": "Accueil",
+    "menu": "Menu",
+    "showArt": "Spectacle & Art",
+    "reservation": "Réservation",
+    "about": "Notre Histoire",
+    "contact": "Contact",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "switchToEnglish": "Passer en anglais",
+    "switchToFrench": "Passer en français",
+    "bookTable": "Réserver une Table",
+    "viewMenu": "Voir le Menu"
+  },
+  "footer": {
+    "tagline": "Pépère Marrakech — Restaurant · Sports Bar · Grill, le match, les saveurs et les bons moments, tout en même temps.",
+    "explore": "Explorer",
+    "rightsReserved": "Tous droits réservés."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Marrakech · Restaurant · Sports Bar · Grill",
+      "scrollHint": "Défiler"
+    },
+    "whatsOn": {
+      "eyebrow": "Au Programme",
+      "heading": "Son, Spectacles et Bonne Ambiance",
+      "intro": "Musique live, DJs résidents, spectacles de danse et des fêtes qui ne s'arrêtent pas — la soirée ne ralentit jamais ici.",
+      "sportsLabel": "Sur Grand Écran",
+      "bigScreen": "Grand Écran",
+      "hdBroadcast": "Diffusion HD",
+      "soundOn": "Son Activé",
+      "sportsBlurbHeading": "Chaque Grand Match, Ici",
+      "sportsBlurbBody": "Football, Ligue des Champions, UFC, Formule 1, NBA — on diffuse les matchs qui comptent, à chaque fois. Passez nous voir, ou réservez une table pour ne pas rater le coup d'envoi.",
+      "cta": "Réservez Votre Table",
+      "nightlifeLabel": "Après la Tombée de la Nuit",
+      "showArtLabel": "Spectacle & Art",
+      "stadiumAlt": "Des supporters regardent un match sur grand écran chez Pépère Marrakech"
+    },
+    "foodAndDrinks": {
+      "eyebrow": "Food & Drinks",
+      "heading": "Tagines, Grillades & Bien Plus",
+      "intro": "Quelques recettes qui font la maison, et toute une carte de tagines, grillades, poissons et bien plus derrière elles.",
+      "menuLabel": "Découvrir la Carte",
+      "menuCta": "Voir le Menu Complet"
+    },
+    "bar": {
+      "eyebrow": "Boissons",
+      "heading": "Vin, Bière et Tout le Reste",
+      "intro": "Des pressions bien fraîches aux vins de garde, des cocktails classiques aux spiritueux haut de gamme — notre bar a de quoi satisfaire toutes les tables.",
+      "categoriesLabel": "Ce Qu'il y a Au Bar",
+      "cta": "Voir Tout Le Bar"
+    },
+    "experience": {
+      "eyebrow": "L'Expérience Pépère",
+      "heading": "L'Audace, le Frais et la Bonne Humeur",
+      "paragraph1": "Chaque plat commence de la même façon — des ingrédients frais, un vrai savoir-faire, aucun raccourci, que ce soit à la grillade, au tagine ou à la poêle. C'est plus lent. Ça en vaut la peine.",
+      "paragraph2": "Chaque assiette est construite autour de ce qui est frais le matin même, jamais par facilité.",
+      "paragraph3": "Et une fois à table — dîner tranquille ou match entre amis — l'attention reste la même."
+    },
+    "gallery": {
+      "eyebrow": "L'Ambiance Pépère",
+      "heading": "Les Meilleures Soirées Commencent Ici"
+    },
+    "contact": {
+      "eyebrow": "Nous Trouver",
+      "heading": "Votre Table Vous Attend",
+      "addressLabel": "Adresse",
+      "hoursLabel": "Horaires",
+      "phoneLabel": "Téléphone",
+      "emailLabel": "Email",
+      "socialLabel": "Suivez-Nous",
+      "mapCta": "Itinéraire",
+      "callCta": "Réserver par Téléphone"
+    },
+    "whatsappCta": {
+      "heading": "Discutons sur WhatsApp",
+      "intro": "Le moyen le plus rapide de réserver une table, demander pour le match du soir, ou organiser un événement privé.",
+      "cta": "Écrivez-Nous sur WhatsApp"
+    }
+  },
+  "menu": {
+    "eyebrow": "La Carte Complète",
+    "heading": "Le Menu",
+    "intro": "Des tagines mijotées lentement, du poisson et des grillades tout droit sortis du charbon, des tapas à partager, et un bar complet — tout ce que sert Pépère, réuni ici.",
+    "categoryNavLabel": "Catégories du menu",
+    "filter": {
+      "label": "Filtrer le menu",
+      "all": "Tout",
+      "kitchen": "Cuisine",
+      "bar": "Bar"
+    },
+    "close": "Fermer",
+    "viewDetails": "Voir les détails de {dish}",
+    "sectionEyebrows": {
+      "fanFavorites": "Les Coups de Cœur",
+      "fromTheGrill": "Vrai Charbon, Aucun Raccourci",
+      "drinks": "Le Bar"
+    },
+    "units": {
+      "glass": "Verre",
+      "half": "Demi-Bouteille",
+      "bottle": "Bouteille"
+    }
+  },
+  "about": {
+    "header": {
+      "eyebrow": "Notre Histoire",
+      "heading": "Moins un Restaurant, Plus un Rassemblement",
+      "intro": "Même le nom le dit : quelque chose de familier, décontracté, sans chichis. Pépère Marrakech a ouvert ses portes au coup d'envoi de la Coupe du Monde, mais l'idée n'a jamais été d'être seulement un endroit pour regarder le match. C'est la cuisine qui tourne du déjeuner jusqu'à 2h du matin, la table qui a toujours une place en plus, et une salle pensée pour ressembler à une grande soirée entre amis, pas à un restaurant assis."
+    },
+    "narrative": {
+      "eyebrow": "Comment Tout a Commencé",
+      "heading": "Longs Déjeuners, Nuits Plus Longues",
+      "paragraph1": "Pépère Marrakech a ouvert ses portes au coup d'envoi de la Coupe du Monde, pensé pour ces soirées qui commencent autour d'un déjeuner tardif et se terminent bien après le coup de sifflet final.",
+      "paragraph2": "La cuisine tourne en continu de midi à 2h du matin, avec de nouvelles suggestions chaque jour selon les produits frais du matin — aucune course contre la montre avant la fermeture, que ce soit pour déjeuner, dîner ou grignoter pendant les prolongations.",
+      "paragraph3": "Des prix justes, de la musique live et des performances tous les jours, et une salle qui ressemble à une grande tablée entre amis — amateurs de football et habitués du quartier confondus.",
+      "valuesLabel": "Ce En Quoi On Croit",
+      "value1": "Cuisine de Midi à 2h",
+      "value2": "Chaque Grand Match, Toute l'Année",
+      "value3": "Prix Justes, Sans Pression",
+      "value4": "Performances Live Chaque Jour",
+      "cta": "Voir Tout le Menu"
+    },
+    "moments": {
+      "eyebrow": "Une Table Pour Chacun",
+      "heading": "Toutes Les Soirées Sont Bonnes",
+      "intro": "Peu importe ce qui vous amène, il y a une place qui vous attend.",
+      "matchDay": {
+        "title": "Jour de Match",
+        "description": "Grand écran, bière fraîche et une salle qui s'enflamme au bon moment."
+      },
+      "dateNight": {
+        "title": "Soirée en Amoureux",
+        "description": "De la bonne cuisine, un peu de charme, et une table faite pour deux."
+      },
+      "familySunday": {
+        "title": "Dimanche en Famille",
+        "description": "Un peu de tout pour toutes les assiettes, enfants compris."
+      },
+      "afterDark": {
+        "title": "Après la Tombée de la Nuit",
+        "description": "Musique live, DJs, et une soirée qui continue bien après le dessert."
+      }
+    }
+  },
+  "contactPage": {
+    "header": {
+      "eyebrow": "Nous Contacter",
+      "heading": "Venez Nous Voir",
+      "intro": "Dîner tranquille, grand match ou table pour toute la bande — voici tout ce qu'il faut pour nous trouver, nous joindre et réserver votre place."
+    },
+    "findUs": {
+      "eyebrow": "Emplacement",
+      "heading": "Nous Trouver",
+      "addressLabel": "Adresse",
+      "intro": "Un clic pour un itinéraire direct jusqu'à notre porte.",
+      "cta": "Itinéraire",
+      "viewOnMap": "Voir Sur La Carte",
+      "openNow": "Ouvert",
+      "closedNow": "Fermé"
+    },
+    "methods": {
+      "eyebrow": "Coordonnées",
+      "heading": "Comment Nous Joindre",
+      "whatsappLabel": "WhatsApp",
+      "whatsappValue": "Discutez Avec Nous",
+      "phoneLabel": "Appelez-Nous",
+      "emailLabel": "Écrivez-Nous",
+      "instagramLabel": "Suivez-Nous",
+      "hoursLabel": "Horaires d'Ouverture"
+    }
+  },
+  "qrMenu": {
+    "heading": "QR Codes du Menu",
+    "intro": "À imprimer pour les tables, les flyers ou la devanture — les clients scannent et arrivent directement sur le menu numérique.",
+    "print": "Imprimer",
+    "scanCta": "Scannez pour notre menu",
+    "testLabel": "Aperçu (test)",
+    "liveLabel": "En ligne (production)"
+  }
+}
