@@ -74,17 +74,6 @@ export const tapasCategory: MenuCategory = {
       image: "https://res.cloudinary.com/udflrhgq/image/upload/f_auto,q_auto,w_1600,c_limit/v1784806022/Taktouka_whoge5.jpg",
     },
     {
-      id: 3,
-      slug: "foule-gnaoua",
-      name: { en: "Foule Gnaoua", fr: "Foule Gnaoua" },
-      description: {
-        en: "A generous dish that starts with \"just a taste\" and ends with all the bread. Khalii supplement +20 DH.",
-        fr: "Un plat généreux qui commence par « je goûte » et finit avec tout le pain. Supplément Khalii +20 DH.",
-      },
-      price: "35 DH",
-      image: "https://res.cloudinary.com/udflrhgq/image/upload/f_auto,q_auto,w_1600,c_limit/v1784806001/Foule_Gnaoua_xpw8wb.jpg",
-    },
-    {
       id: 4,
       slug: "haricot-blanc",
       name: { en: "White Bean Stew", fr: "Haricot Blanc" },
@@ -128,50 +117,6 @@ export const saladesCategory: MenuCategory = {
       },
       price: "35 DH",
       image: "https://res.cloudinary.com/udflrhgq/image/upload/f_auto,q_auto,w_1600,c_limit/v1784806029/Tomate_Oignon_Concombre_qt2xdt.jpg",
-    },
-    {
-      id: 7,
-      slug: "oeuf-dur-mayonnaise",
-      name: { en: "Hard-Boiled Egg, Mayonnaise", fr: "Œuf Dur Mayonnaise" },
-      description: {
-        en: "The great classic that never goes out of style.",
-        fr: "Le grand classique qui traverse le temps sans jamais perdre son charme.",
-      },
-      price: "35 DH",
-      image: "https://res.cloudinary.com/udflrhgq/image/upload/f_auto,q_auto,w_1600,c_limit/v1784806028/%C5%92uf_Dur_Mayonnaise_ylfs6d.jpg",
-    },
-    {
-      id: 8,
-      slug: "artichaut-vinaigrette",
-      name: { en: "Artichoke Vinaigrette", fr: "Artichaut Vinaigrette" },
-      description: {
-        en: "Delicate, elegant, and subtly Mediterranean.",
-        fr: "Délicat, élégant et subtilement méditerranéen.",
-      },
-      price: "50 DH",
-      image: "https://res.cloudinary.com/udflrhgq/image/upload/f_auto,q_auto,w_1600,c_limit/v1784805994/Artichaut_Vinaigrette_xdcxkm.jpg",
-    },
-    {
-      id: 9,
-      slug: "avocat-vinaigrette",
-      name: { en: "Avocado Vinaigrette", fr: "Avocat Vinaigrette" },
-      description: {
-        en: "The gentle richness of avocado, in its simplest form.",
-        fr: "La douceur de l'avocat dans toute sa simplicité.",
-      },
-      price: "35 DH",
-      image: "https://res.cloudinary.com/udflrhgq/image/upload/f_auto,q_auto,w_1600,c_limit/v1784805990/Avocat_Vinaigrette_vq5afl.jpg",
-    },
-    {
-      id: 10,
-      slug: "crevettes-mayonnaise",
-      name: { en: "Shrimp, Mayonnaise", fr: "Crevettes Mayonnaise" },
-      description: {
-        en: "Shrimp that clearly chose comfort and elegance.",
-        fr: "Des crevettes qui ont clairement choisi le confort et l'élégance.",
-      },
-      price: "60 DH",
-      image: "https://res.cloudinary.com/udflrhgq/image/upload/f_auto,q_auto,w_1600,c_limit/v1784805999/Crevettes_Mayonnaise_ibfef3.jpg",
     },
     {
       id: 11,
@@ -273,17 +218,6 @@ export const grillCategory: MenuCategory = {
       },
       price: "95 DH",
       image: "https://res.cloudinary.com/udflrhgq/image/upload/f_auto,q_auto,w_1600,c_limit/v1784806005/Coquelet_Grill%C3%A9_ng0bmp.jpg",
-    },
-    {
-      id: 20,
-      slug: "ailes-de-poulet",
-      name: { en: "Chicken Wings", fr: "Ailes de Poulet" },
-      description: {
-        en: "Best enjoyed with your fingers and zero guilt.",
-        fr: "À déguster avec les doigts et sans aucune culpabilité.",
-      },
-      price: "75 DH",
-      image: "https://res.cloudinary.com/udflrhgq/image/upload/f_auto,q_auto,w_1600,c_limit/v1784805982/Ailes_de_Poulet_jgkp0k.jpg",
     },
   ],
 };
@@ -484,17 +418,6 @@ export const cassolettesCategory: MenuCategory = {
         "https://res.cloudinary.com/udflrhgq/image/upload/f_auto,q_auto,w_1600,c_limit/v1784806016/Poisson_%C3%A0_la_Marocaine_sbqtpe.jpg",
     },
     {
-      id: 21,
-      slug: "moules",
-      name: { en: "Mussels", fr: "Moules" },
-      description: {
-        en: "Like a one-way ticket to the seaside.",
-        fr: "Comme un aller simple vers le bord de mer.",
-      },
-      price: "90 DH",
-      image: "https://res.cloudinary.com/udflrhgq/image/upload/f_auto,q_auto,w_1600,c_limit/v1784806011/Moules_owt1xb.jpg",
-    },
-    {
       id: 22,
       slug: "gambas-messlala",
       name: { en: "Prawns Messlala", fr: "Gambas Messlala" },
@@ -504,17 +427,6 @@ export const cassolettesCategory: MenuCategory = {
       },
       price: "120 DH",
       image: "https://res.cloudinary.com/udflrhgq/image/upload/f_auto,q_auto,w_1600,c_limit/v1784806003/Gambas_Messlala_zjelmy.jpg",
-    },
-    {
-      id: 23,
-      slug: "espadon-gambas",
-      name: { en: "Swordfish & Prawns", fr: "Espadon & Gambas" },
-      description: {
-        en: "A refined plate that smells like vacation.",
-        fr: "Une assiette raffinée qui sent bon les vacances.",
-      },
-      price: "135 DH",
-      image: "https://res.cloudinary.com/udflrhgq/image/upload/f_auto,q_auto,w_1600,c_limit/v1784806003/Espadon_Gambas_rlxnmi.jpg",
     },
     {
       id: 24,
@@ -537,17 +449,6 @@ export const cassolettesCategory: MenuCategory = {
       },
       price: "95 DH",
       image: "https://res.cloudinary.com/udflrhgq/image/upload/f_auto,q_auto,w_1600,c_limit/v1784806004/Gambas_Pil_Pil_dqlsbe.jpg",
-    },
-    {
-      id: 26,
-      slug: "boulette-de-merlan",
-      name: { en: "Whiting Fish Ball", fr: "Boulette de Merlan" },
-      description: {
-        en: "A specialty as simple and sincere as the best recipes.",
-        fr: "Une spécialité simple et sincère comme les meilleures recettes.",
-      },
-      price: "90 DH",
-      image: "https://res.cloudinary.com/udflrhgq/image/upload/f_auto,q_auto,w_1600,c_limit/v1784805994/Boulette_de_Merlan_mhrrqa.jpg",
     },
   ],
 };
